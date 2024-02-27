@@ -2,6 +2,8 @@ User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
+
+
 Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -14,6 +16,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
 Mock-Up
 NOTE
 This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. In future lessons, you will learn how to make elements "responsive" so that your web application is optimized for any screen size.
