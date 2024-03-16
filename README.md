@@ -3,7 +3,6 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-
 Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -23,6 +22,5 @@ This layout is designed for "desktop", so you may notice that some of the elemen
 
 The following image shows the web application's appearance and functionality:
 ![image](https://github.com/scerda8/challenge-1/assets/159675591/f8a23392-9a0a-4232-b4c1-b45d83fd76c3)
-
 
 A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.
