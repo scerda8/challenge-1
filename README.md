@@ -24,3 +24,5 @@ The following image shows the web application's appearance and functionality:
 ![image](https://github.com/scerda8/challenge-1/assets/159675591/f8a23392-9a0a-4232-b4c1-b45d83fd76c3)
 
 A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.
+
+link to git hub: https://github.com/scerda8/challenge-1.git
